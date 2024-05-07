@@ -66,6 +66,9 @@ When you are using the appliaction next time, you don't require to create the vi
 ## References:
 1. https://arxiv.org/abs/2111.15397
 2. https://neuralprophet.com/science-behind/model-overview.html
-3. https://ai.meta.com/blog/neuralprophet-the-neural-evolution-of-facebooks-prophet/
-4. https://facebook.github.io/prophet/
+3. https://neuralprophet.com/quickstart.html
+4. https://neuralprophet.com/code/forecaster.html
+5. https://ai.meta.com/blog/neuralprophet-the-neural-evolution-of-facebooks-prophet/
+6. https://facebook.github.io/prophet/
+7. https://github.com/ourownstory/neural_prophet
 
