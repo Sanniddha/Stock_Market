@@ -21,7 +21,6 @@ conn = init_conn()
 email = login.email_fn()
 
 try:
-    st.text("WELCOME1")
     # Run SQL query to get the login status of the user
     login_status = conn.query(f"SELECT login_status FROM users WHERE email = '{email}';", ttl="10m")
     login_status = login_status.iloc[0, 0]
